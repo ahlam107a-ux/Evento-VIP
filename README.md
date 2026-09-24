@@ -38,10 +38,4 @@ A modern, highly interactive, and responsive luxury event booking web applicatio
 
 👉 [Click Here to View Live Demo](https://ahlam107a-ux.github.io/Evento-VIP/)
 
----
 
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/evento-vip.git](https://github.com/your-username/evento-vip.git)
